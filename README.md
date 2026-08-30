@@ -16,10 +16,6 @@ Play-Store-Review.
 2. *Settings → Pages → Source*: Branch `main`, Ordner `/ (root)`.
 3. Nach etwa einer Minute erreichbar unter `https://<konto>.github.io/<repo>/`.
 
-Liegen die Dateien stattdessen in einem Unterordner `docs/`, dort `/docs` als Ordner wählen.
-
-Alternativ den Ordner mit der `index.html` auf <https://app.netlify.com/drop> ziehen.
-
 ## Anforderungen von Google Play
 
 Die URL muss dauerhaft erreichbar sein, darf nicht geoblockt werden, kein PDF sein und für
